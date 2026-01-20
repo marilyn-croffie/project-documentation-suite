@@ -87,12 +87,12 @@ Phase 2 recommendations include:
 ## Repository Structure
 
 ```
-├── Requirements Analysis Document.docx
-├── Database Design Document.docx
-├── Fitness Scores Document.docx
-├── Test Plan Document.docx
-├── Handover Document.docx
-└── User Documentation.docx
+├── Requirements Analysis Document.pdf
+├── Database Design Document.pdf
+├── Fitness Scores Document.pdf
+├── Test Plan Document.pdf
+├── Handover Document.pdf
+└── User Documentation.pdf
 ```
 
 ## Context
